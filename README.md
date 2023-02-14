@@ -38,7 +38,7 @@ In addition, Y2mate-Com is constantly being upgraded and updated with many other
 Finally, if you find our "Youtube Downloader" useful, please share this website with your friends and family to use it. That is a huge spiritual support for our team.
 
 
-[y2mate-com](https://y2mate-com.net/)
-[y2mate](https://y2mate.ltd/en168/)
+- [y2mate-com](https://y2mate-com.net/)
+- [y2mate](https://y2mate.ltd/en168/)
 
 
